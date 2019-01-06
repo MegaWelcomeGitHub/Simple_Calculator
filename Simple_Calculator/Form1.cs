@@ -19,7 +19,7 @@ namespace Simple_Calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("first commit in github by" + textBox1);
+            MessageBox.Show("first commit in github by " + textBox1);
         }
     }
 }
