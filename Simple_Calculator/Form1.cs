@@ -23,7 +23,7 @@
         /// <param name="e">The e<see cref="EventArgs"/></param>
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("commit done by " + textBox1);
+            MessageBox.Show("commit is done by " + textBox1);
         }
     }
 }
